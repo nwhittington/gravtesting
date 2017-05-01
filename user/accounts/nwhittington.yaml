@@ -1,0 +1,11 @@
+email: nwhittington@aislerocket.com
+fullname: 'Nate Whittington'
+title: Admin
+state: enabled
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$hvjXMKvZjL/3nEZloN5JEufGaoE97cldwjOPaAdwzLphwS9RZBDcK
